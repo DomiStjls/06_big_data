@@ -1,30 +1,12 @@
 # 06_big_data
 
+## Результат работы можно посмотреть [в данном репозитории](https://github.com/zpankova/Business_telemetry)
+
 Проект по созданию, описанию и визуализации метрик на основе [датасета](https://storage.yandexcloud.net/bigdata-intensive-2023/dataset_telemetry.csv).
 
-Итоговый [дашборд](https://datalens.yandex/sd2yfrnb5462f)
-
-## Этап 1
-
-Записей с женщинами больше, чем с мужчинами:
-
-![image](https://github.com/user-attachments/assets/ca383eb6-651d-4842-9d42-2474b272d9e3)
-
-Все города:
-
-![image](https://github.com/user-attachments/assets/88b2b069-5624-4e40-9a80-f2805fc62a46)
-
-Доход по городам:
-
-![image](https://github.com/user-attachments/assets/734e132e-4d7a-4b21-9c86-381daa4b25d4)
-
-Доход по категориям:
-
-![image](https://github.com/user-attachments/assets/7a32a6a8-0669-4d5e-8f6a-c6e2945fb2b4)
-![image](https://github.com/user-attachments/assets/f904056a-9fe4-4df8-9f70-aaa0375e13fe)
-
+Итоговый [дашборд](https://datalens.yandex/sd2yfrnb5462f) <-- ссылка может не работать из-за окончания бесплатного доступа к хранилищу данных, скриншоты дашборда в [в данном репозитории](https://github.com/zpankova/Business_telemetry)
 __________________
-На основе этих данных я предлагаю рассмотреть датасет в трех аспектах:
+Был рассмотрен датасет в трех аспектах:
 1. Маркетинг
 - Количество уникальных пользователей по времени (день, неделя, месяц).
 - Конверсия (доля пользователей, совершивших определенное действие, например, покупку).
